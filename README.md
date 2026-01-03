@@ -73,7 +73,7 @@ The app will open up and automatically try to detect your location. If that does
 
 It's pretty straightforward:
 
-- **📍 Button** - Click this to auto-detect your location and show local weather
+- ** Button** - Click this to auto-detect your location and show local weather
 - **Search Bar** - Type any city name and press Enter or click the search button
 - **°F/°C Button** - Toggle between Fahrenheit and Celsius
 - **☀/🌙 Button** - Switch between light and dark theme
@@ -166,6 +166,3 @@ If you find bugs or want to add features, feel free to open an issue or submit a
 
 If you have questions or suggestions, feel free to reach out or open an issue on GitHub.
 
----
-
-Made with ☕ and Python
